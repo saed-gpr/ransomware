@@ -19,3 +19,5 @@ and in the future, I plan to update this tool. so please support me :)
 in my account i wrote the simple tools that need to improve and upgrade. If you are a new programmer, upgrading these programs can be a good exercise for you!
 
 you can see my another tools from :point_right: [here](https://github.com/saed-gpr) :point_left:
+
+Author : [Saed Gholipour](https://github.com/saed-gpr)
